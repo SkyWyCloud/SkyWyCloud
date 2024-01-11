@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ralwy&label=Profile%20views&color=2600ff&style=flat" alt="ralwy" /> </p>
 
-- 🌱 I’m currently learning **Framework, courses etc.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/ralwyeditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ralwyeditz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
